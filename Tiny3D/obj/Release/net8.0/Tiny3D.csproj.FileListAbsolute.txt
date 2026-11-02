@@ -1,0 +1,13 @@
+D:\Projects\Test\Tiny3D\bin\Release\net8.0\EngineSettings.json
+D:\Projects\Test\Tiny3D\bin\Release\net8.0\Tiny3D.deps.json
+D:\Projects\Test\Tiny3D\bin\Release\net8.0\Tiny3D.dll
+D:\Projects\Test\Tiny3D\bin\Release\net8.0\Tiny3D.pdb
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.csproj.AssemblyReference.cache
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.AssemblyInfoInputs.cache
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.AssemblyInfo.cs
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.dll
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\refint\Tiny3D.dll
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\Tiny3D.pdb
+D:\Projects\Test\Tiny3D\obj\Release\net8.0\ref\Tiny3D.dll
